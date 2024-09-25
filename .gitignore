@@ -1,0 +1,20 @@
+# Python 가상 환경
+my_env/
+
+# VSCode 설정 파일
+.vscode/
+
+# Python 컴파일 파일
+__pycache__/
+*.pyc
+*.pyo
+
+# 빌드 파일
+build/
+dist/
+
+# 환경 변수 파일
+.env
+
+# 로그 파일
+*.log
